@@ -16,5 +16,6 @@ public class Main {
         int classificacao;
         classificacao = (int) (media /2); //converteu a média pra int
         System.out.println("Classificação: "+classificacao+" estrelas");
+
     }
 }
